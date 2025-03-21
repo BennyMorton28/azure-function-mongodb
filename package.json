@@ -1,0 +1,9 @@
+   {
+     "name": "record-followers",
+     "version": "1.0.0",
+     "description": "Records Instagram follower count",
+     "main": "index.js",
+     "dependencies": {
+       "mongodb": "^5.0.0"
+     }
+   }
